@@ -21,4 +21,8 @@
 go.work
 
 # env files
-.env
+*.env
+
+# Default directories
+chart_files/
+chart_results/
